@@ -1,5 +1,5 @@
 # ThePhisher
-![ThePhisher](https://github.com/thehackersbrain/dirhunter/blob/master/dirhunter.png)
+![ThePhisher](https://thehackersbrain.github.io/images/joker/thephisher.png)
 The Phishing Framework v1.0
 ## Version
 **ThePhisher v1.0**
@@ -39,3 +39,5 @@ python3 main.py
 **HackersBrain : [HackTheBox](https://www.hackthebox.eu/profile/303514)**
 
 **HackersBrain : [TryHackMe](https://tryhackme.com/p/hackersbrain)**
+
+**Website: [Thehackersbrain](https://thehackersbrain.pythonanywhere.com/)**
