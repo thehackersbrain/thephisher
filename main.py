@@ -11,6 +11,7 @@ import json
 
 def ctarget():
 	if "targets" not in listdir():
+		system("chmod +x setup.sh")
 		mkdir("targets")
 
 def banner():
