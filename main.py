@@ -4,8 +4,12 @@
 # Website : https://thehackersbrain.pythonanywhere.com/
 
 from termcolor import colored
-from os import system
+from os import system, listdir, mkdir
 import pyfiglet
+
+def ctarget():
+	if "targets" not in listdir():
+		mkdir("targets")
 
 def banner():
 	banner = pyfiglet.figlet_format(' The Phisher', font='slant')
@@ -21,6 +25,7 @@ def sites():
 
 if __name__ == '__main__':
 	try:
+		ctarget()
 		banner()
 		sites()
 		print()

