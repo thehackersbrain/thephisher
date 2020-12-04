@@ -1,8 +1,8 @@
 # ThePhisher
 ![ThePhisher](https://thehackersbrain.github.io/images/joker/thephisher.png)
-The Phishing Framework v1.0
+The Phishing Framework v2.0
 ## Version
-**ThePhisher v1.0**
+**ThePhisher v2.0**
 ## Requirements
 * **[Python3](https://www.python.org/downloads/)**
 
@@ -41,3 +41,5 @@ python3 main.py
 **HackersBrain : [TryHackMe](https://tryhackme.com/p/hackersbrain)**
 
 **Website: [Thehackersbrain](https://thehackersbrain.pythonanywhere.com/)**
+
+**PortFolio: [Gaurav Raj](https://gauravraj.tech/)**
